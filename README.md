@@ -399,7 +399,7 @@ AWS Cloud Support Engineer | AWS Certified
 
 ## 📚 Project Documentation
 
-The complete step-by-step implementation, screenshots, architecture diagram, testing evidence, and limitations are documented in the accompanying project documentation. fileciteturn0file0L20-L30
+The complete step-by-step implementation, screenshots, architecture diagram, testing evidence, and limitations are documented in the accompanying project documentation. 
 
 ---
 
